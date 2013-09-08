@@ -9,6 +9,6 @@
         "sneakybobito/phalcon-stubs": "1.2.3"
     },
     "autoload": {
-        "psr-0": {"Smdev\\Controllers": "src/"}
+        "classmap": ["src"]
     }
 }
